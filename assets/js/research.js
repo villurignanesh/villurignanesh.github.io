@@ -9,7 +9,7 @@ const research = [
       "Gnaneswar Villuri",
     researchYr: " In this work, I put some light on the new system in which using the eye as an interface to communicate with a system for people that are severely paralyzed or affected by diseases in which they are unable to move or control most of their body parts except for their eyes. This paper gives an overview of different techniques and describes the best possible methods of Iris movement and Gaze Tracking techniques. The main purpose of the system is the motion analysis method and finding Horizontal Ratio to Find the Direction of Vision i.e., Left, Right or Centre.",
     citebox: "popup1",
-    image: "assets/images/research-page/iris.png",
+    image: "assets/images/research-page/Iris.png",
     citation: {
       vancouver:
         "Paper Published in IJSER Volume 9, Issue4, April 2021 Edition (ISSN 2229-5518)",
