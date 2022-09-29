@@ -17,7 +17,7 @@ const projects = [
     title: "Forecasting High School Dropouts %",
     cardImage: "assets/images/project-page/hs.png",
     description: "Used a python module named Prophet, Which provides a practical approach to recasting ”at scale”",
-    Previewlink: "",
+    Previewlink: "https://github.com/villurignanesh/Forecasting-Future-trends-using-FBProphet",
     Githublink: "https://github.com/villurignanesh/Forecasting-Future-trends-using-FBProphet",
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     description:
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
+    Previewlink: "https://github.com/villurignanesh/Tic-Tac-Toe",
     Githublink: "https://github.com/villurignanesh/Tic-Tac-Toe",
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     description: "Built battery life calculator using Python.",
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
-    Previewlink: "",
+    Previewlink: "https://github.com/villurignanesh/Battery-Calculator",
     Githublink: "https://github.com/villurignanesh/Battery-Calculator",
   },
   {
