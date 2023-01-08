@@ -6,6 +6,27 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Experimental assessment of the state of the art on classification",
+    cardImage: "assets/images/project-page/classification.png",
+    description: "Comparing different classification algorithms",
+    Previewlink: "https://github.com/villurignanesh/Experimental-assessment-of-the-state-of-the-art-on-classification",
+    Githublink: "https://github.com/villurignanesh/Experimental-assessment-of-the-state-of-the-art-on-classification",
+  },
+  {
+    title: "Decision Tree Classification Algorithms",
+    cardImage: "assets/images/project-page/decisiontree.png",
+    description: "This project the implemention of the Decision Tree Induction algorithm for classification using python on 15 benchmark datasets",
+    Previewlink: "https://github.com/villurignanesh/Decision-Tree-Classification",
+    Githublink: "https://github.com/villurignanesh/Decision-Tree-Classification",
+  },
+  {
+    title: "FPGrowth Algorithm",
+    cardImage: "assets/images/project-page/fpgrowth.png",
+    description: "This project shows how I used Python to construct the FPGrowth algorithm on 20 Benchmark test datasets",
+    Previewlink: "https://github.com/villurignanesh/FPGrowth",
+    Githublink: "https://github.com/villurignanesh/FPGrowth",
+  },
+  {
     title: "HOLA ENTERPRISE DESIGNER TOOL",
     cardImage: "assets/images/project-page/hola.jpeg",
     description: "Created a tool which can generate customizable videos using different Web Based Components",

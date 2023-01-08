@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Research Assistant (Part-time)",
+    cardImage: "assets/images/experience-page/sbu.png",
+    place: "Stony Brook University",
+    time: "(Jan, 2023 - Present)",
+    desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alexa Doboli.</li></ol>",
+  },
+  {
     title: "UI/UX Developer (Software Consultant)",
     cardImage: "assets/images/experience-page/ABDA.png",
     place: "ABDA Digital",
