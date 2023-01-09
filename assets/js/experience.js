@@ -14,7 +14,7 @@ const exp = [
   {
     title: "UI/UX Developer (Software Consultant)",
     cardImage: "assets/images/experience-page/ABDA.png",
-    place: "ABDAg Digital",
+    place: "ABDA Digital",
     time: "(Nov, 2020 - Jan, 2022)",
     desp: "<ol><li>Developed web components for making light, portable, and mobile-centric content that can be shared using SMS or Email. Worked on front-end Technologies like HTML, CSS & JavaScript and frameworks like JQuery, Bootstrap & groovy on grails.</li><li>Enhaced the usability of the designertool by adding dynamic functionalities like undo-redo,ruler, alignment gridlines, draggable, and resizable.</li><li>Boosted user experience scores by 45% over company’s previous best.</li></ol>",
   },
