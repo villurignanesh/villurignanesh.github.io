@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/sbu.png",
     place: "Stony Brook University",
     time: "(Jan, 2023 - Present)",
-    desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alexa Doboli.</li></ol>",
+    desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alex Doboli.</li></ol>",
   },
   {
     title: "UI/UX Developer (Software Consultant)",
