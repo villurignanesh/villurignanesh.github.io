@@ -8,7 +8,7 @@ const projects = [
   {
     title: "Experimental assessment of the state of the art on classification",
     cardImage: "assets/images/project-page/classification.png",
-    description: "Comparing different classification algorithms",
+    description: "Comparing various classification algorithms",
     Previewlink: "https://github.com/villurignanesh/Experimental-assessment-of-the-state-of-the-art-on-classification",
     Githublink: "https://github.com/villurignanesh/Experimental-assessment-of-the-state-of-the-art-on-classification",
   },
