@@ -12,7 +12,7 @@ const exp = [
     desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alex Doboli.</li></ol>",
   },
   {
-    title: "UI/UX Developer (Software Consultant)",
+    title: "Software Developer",
     cardImage: "assets/images/experience-page/ABDA.png",
     place: "ABDA Digital",
     time: "(Nov, 2020 - Jan, 2022)",
