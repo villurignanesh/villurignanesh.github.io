@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/sbu.png",
     place: "Stony Brook University",
     time: "(Jan, 2023 - Present)",
-    desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alex Doboli.</li><li> Spearheaded groundbreaking research funded by the Office of Naval Research (ONR) on consensus-building dynamics using NLP tools, resulting in a remarkable 24% improvement in optimizing team strategies.</li><li>.</li><li>.</li></ol>",
+    desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alex Doboli.</li><li> Spearheaded groundbreaking research funded by the Office of Naval Research (ONR) on consensus-building dynamics using NLP tools, resulting in a remarkable 24% improvement in optimizing team strategies.</li><li>Conducted comprehensive analysis on data collected from more than 50 team interactions involving 3 speakers, leading to a significant 24% improvement in consensus-reaching strategies..</li><li>Integrated Whisper, a cutting-edge speech-to-text conversion technology, into the research framework, enabling 15% faster and 27% more accurate insights extraction and analysis..</li></ol>",
   },
   {
     title: "Software Developer Intern - Zippi Delivery",
@@ -23,14 +23,14 @@ const exp = [
     cardImage: "assets/images/experience-page/ABDA.png",
     place: "ABDA Digital",
     time: "(Nov, 2020 - Jan, 2022)",
-    desp: "<ol><li>Developed web components for making light, portable, and mobile-centric content that can be shared using SMS or Email. Worked on front-end Technologies like HTML, CSS & JavaScript and frameworks like JQuery, Bootstrap & groovy on grails.</li><li>Enhaced the usability of the designertool by adding dynamic functionalities like undo-redo,ruler, alignment gridlines, draggable, and resizable.</li><li>Boosted user experience scores by 45% over company’s previous best.</li></ol>",
+    desp: "<ol><li>Developed web components for making light, portable, and mobile-centric content that can be shared using SMS or Email. Worked on front-end Technologies like HTML, CSS & JavaScript, and frameworks like JQuery, Bootstrap and Groovy on grails.</li><li>Enhaced the usability of the designer tool by adding dynamic functionalities like undo-redo, ruler, alignment gridlines, draggable, and resizable.</li><li>Boosted user experience scores by 45% over company’s previous best.</li><li>Awarded as Top 50 Emerging Startups from India by NASSCOM(for our flagship product Hola Enterprise).</li></ol>",
   },
   {
     title: "Associate Software Engineer",
     cardImage: "assets/images/experience-page/Accenture.jpg",
     place: "Accenture",
     time: "(Jan, 2022 - June, 2022)",
-    desp: "<ol><li>Contributed to creating a responsive user interface for the client, which increased their customer satisfaction by 30% and customer acquisition by 50%.</li> <li>Redesigned the client's website,resulting in a 25% increase in traffic.</li></ol>",
+    desp: "<ol><li>Contributed to creating a responsive user interface for the client, which increased their customer satisfaction by 30% and customer acquisition by 50%.</li> <li>Redesigned the client's website, resulting in a 25% increase in traffic.</li></ol>",
   },
   {
     title: "Business Development Intern",
