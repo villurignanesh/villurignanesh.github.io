@@ -9,7 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/sbu.png",
     place: "Stony Brook University",
     time: "(Jan, 2023 - Present)",
-    desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alex Doboli.</li></ol>",
+    desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alex Doboli.</li><li> Spearheaded groundbreaking research funded by the Office of Naval Research (ONR) on consensus-building dynamics using NLP tools, resulting in a remarkable 24% improvement in optimizing team strategies.</li><li>.</li><li>.</li></ol>",
+  },
+  {
+    title: "Software Developer Intern - Zippi Delivery",
+    cardImage: "assets/images/experience-page/zippi.png",
+    place: "Stony Brook",
+    time: "(May, 2023 - Aug, 2023)",
+    desp: "<ol><li>Developed a cross-platform application(Web and Mobile App) that streamlined the ordering process for customers which increased the number of orders by more than 60%. Used flutter and firebase. Implemented Stripe as a payment gateway for secure online transactions. Try The App (Use 3A Detmer Rd, East Setauket, NY as Address)</li><li> Optimized the search algorithm in a way that customers can order from multiple restaurants within the same order. This new feature attracted over 1000 new customers and resulted in a 40% increase in daily order volume..</li></ol>",
   },
   {
     title: "Software Developer",
@@ -23,21 +30,21 @@ const exp = [
     cardImage: "assets/images/experience-page/Accenture.jpg",
     place: "Accenture",
     time: "(Jan, 2022 - June, 2022)",
-    desp: "<ol><li>Contributed in creating a responsive userinterface to the client, which increased their customer satisfaction by 30% and customer acquisition by 50%.</li> <li>Redesigned the client's website,resulting in a 25% increase in traffic.</li></ol>",
+    desp: "<ol><li>Contributed to creating a responsive user interface for the client, which increased their customer satisfaction by 30% and customer acquisition by 50%.</li> <li>Redesigned the client's website,resulting in a 25% increase in traffic.</li></ol>",
   },
   {
     title: "Business Development Intern",
     cardImage: "assets/images/experience-page/treksome.png",
     place: "Treksome",
-    time: "(May - Jun, 2019)",
-    desp: "<ol><li>I am the in the promotion team, We are a team of four people working for marketing and promotions. I discussed some marketing strategies and promotion ideas for the organization which increased the sales of our organization by over 40%</li></ol>",
+    time: "(May, 2019 - Jun, 2019)",
+    desp: "<ol><li>I am the in the promotion team, We are a team of four people working on marketing and promotions. I discussed some marketing strategies and promotion ideas for the organization which increased the sales of our organization by over 40%</li></ol>",
   },
   {
     title: "Social Media Marketing Intern",
     cardImage: "assets/images/experience-page/internshala.png",
     place: "Internshala",
     time: "(Jun, 19 - Aug, 20)",
-    desp: "<ol><li>Created awareness about internshala internships and training,organizing seminars to find their dream internships.</li></ol>",
+    desp: "<ol><li>Created awareness about Internshala internships and training, organizing seminars to find their dream internships.</li></ol>",
   },
 ];
 
