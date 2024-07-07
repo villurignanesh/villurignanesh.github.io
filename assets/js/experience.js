@@ -8,14 +8,14 @@ const exp = [
     title: "Research Assistant (Part-time)",
     cardImage: "assets/images/experience-page/sbu.png",
     place: "Stony Brook University",
-    time: "(Jan, 2023 - Present)",
+    time: "(Jan 2023 - Present)",
     desp: "<ol><li>Working on ONR Sponsored Research Project under Professor Alex Doboli.</li><li> Spearheaded groundbreaking research funded by the Office of Naval Research (ONR) on consensus-building dynamics using NLP tools, resulting in a remarkable 24% improvement in optimizing team strategies.</li><li>Conducted comprehensive analysis on data collected from more than 50 team interactions involving 3 speakers, leading to a significant 24% improvement in consensus-reaching strategies.</li><li>Integrated Whisper, a cutting-edge speech-to-text conversion technology, into the research framework, enabling 15% faster and 27% more accurate insights extraction and analysis.</li></ol>",
   },
   {
     title: "Software Developer Intern - Zippi Delivery",
     cardImage: "assets/images/experience-page/zippi.png",
     place: "Stony Brook",
-    time: "(May, 2023 - Aug, 2023)",
+    time: "(May 2023 - Present)",
     desp: "<ol><li>Developed a cross-platform application(Web and Mobile App) that streamlined the ordering process for customers which increased the number of orders by more than 60%. Used flutter and firebase. Implemented Stripe as a payment gateway for secure online transactions. Try The App (Use 3A Detmer Rd, East Setauket, NY as Address)</li><li> Optimized the search algorithm in a way that customers can order from multiple restaurants within the same order. This new feature attracted over 1000 new customers and resulted in a 40% increase in daily order volume.</li></ol>",
   },
   {
